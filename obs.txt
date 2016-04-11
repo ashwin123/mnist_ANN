@@ -1,0 +1,9 @@
+hidden_size 4, L2 : 74.5
+hidden_size 8, L2 : 85.5%
+hidden_size 16 L2 : 90%
+hidden_size 32 L2 : 90.5%
+
+hidden_size 4 : 75%
+hidden_size 8 : 86%
+hidden_size 16 : 87.5%
+hidden_size 32 : 91%
