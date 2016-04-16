@@ -1,3 +1,8 @@
+"""
+Simple Feed Forward Neural Network
+Author: Ashwin Naresh
+Date: 8 April 2016
+"""
 import numpy as np
 import pickle, random, pdb
 
